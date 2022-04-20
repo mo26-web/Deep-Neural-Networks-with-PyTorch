@@ -6,9 +6,9 @@ The course start with Pytorch's  tensors and Automatic differentiation package. 
 Learning Outcomes:\
 Able to:
 <ul>
-<li>	explain and apply their knowledge of Deep Neural Networks and related machine learning methods</li>
-<li>	know how to use Python libraries such as PyTorch  for Deep Learning applications </li>
-<li>	build Deep Neural Networks using PyTorch</li>
+<li>	Explain and apply their knowledge of Deep Neural Networks and related machine learning methods.</li>
+<li>	Know how to use Python libraries such as PyTorch  for Deep Learning applications. </li>
+<li>	Build Deep Neural Networks using PyTorch.</li>
 </ul>
 
 see at: 
