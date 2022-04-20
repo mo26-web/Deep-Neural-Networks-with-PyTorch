@@ -3,7 +3,7 @@ This is a implementation for Deep Neural Networks with PyTorch (coursera).
 
 The course start with Pytorch's  tensors and Automatic differentiation package. Then each section cover different models starting off with fundamentals such as Linear Regression, and logistic/softmax regression. Followed by  Feedforward deep neural networks, the role of different activation functions, normalization and dropout layers. Then Convolutional Neural Networks and Transfer learning is covered. Finally, several other Deep learning methods is covered.
 
-##Learning Outcomes
+## Learning Outcomes
 Able to:
 <ul>
 <li>	Explain and apply their knowledge of Deep Neural Networks and related machine learning methods.</li>
